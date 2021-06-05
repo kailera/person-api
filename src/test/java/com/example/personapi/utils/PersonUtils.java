@@ -9,7 +9,7 @@ import java.util.Collections;
 public class PersonUtils {
     private static final String FIST_NAME = "Samuel";
     private static final String LAST_NAME = "Ferreira";
-    private static final String CPF_NUMBER = "474.945.178-98";
+    private static final String CPF_NUMBER = "nops";
     private static final Long PERSON_ID = 1L;
     public static final LocalDate BIRTH_DATE = LocalDate.of(2010, 10, 1);
 

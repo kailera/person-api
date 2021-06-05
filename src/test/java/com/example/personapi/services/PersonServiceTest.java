@@ -6,7 +6,6 @@ import com.example.personapi.DTO.requests.PersonDTO;
 import com.example.personapi.entities.Person;
 import com.example.personapi.mappers.PersonMapper;
 import com.example.personapi.repositories.PersonRepository;
-import com.example.personapi.utils.PersonUtils;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
